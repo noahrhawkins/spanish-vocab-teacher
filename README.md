@@ -53,8 +53,5 @@ python spanish_vocab.py
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Your Name
-
 ---
 Feel free to contribute, suggest improvements, or report issues!
